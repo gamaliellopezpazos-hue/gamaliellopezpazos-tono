@@ -14,5 +14,5 @@
 
 ## Contacto y Enlaces
 - 📧 **Correo:** glopez@ucol.mx
-- 💼 **LinkedIn:** gamaliellopezpazos-hue(https://www.linkedin.com/in/gamaliellopezpazos-hue)
-- 📁 **Proyecto Integrador:** Ver repositorio: (https://github.com/gamaliellopezozos-hue/gamaliellopezozos-hue)
+- 💼 **LinkedIn:** gamaliellopezpazos-hue(https://www.linkedin.com/in/Gamaliellopezpazos-tono)
+- 📁 **Proyecto Integrador:** Ver repositorio: (https://github.com/Gamaliellopezpazos-tono/Gamaliellopezpazos-tono)
